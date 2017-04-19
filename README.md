@@ -1,4 +1,7 @@
-# test coverage for  [dustjs-linkedin (v2.7.5)](http://dustjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-dustjs-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dustjs-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dustjs-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-dustjs-linkedin)
+# npmtest-dustjs-linkedin
+
+#### test coverage for  [dustjs-linkedin (v2.7.5)](http://dustjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-dustjs-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dustjs-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dustjs-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-dustjs-linkedin)
+
 #### Asynchronous templates for the browser and server (LinkedIn fork)
 
 [![NPM](https://nodei.co/npm/dustjs-linkedin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dustjs-linkedin)
