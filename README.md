@@ -1,6 +1,6 @@
 # npmtest-dustjs-linkedin
 
-#### test coverage for  [dustjs-linkedin (v2.7.5)](http://dustjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-dustjs-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dustjs-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dustjs-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-dustjs-linkedin)
+#### basic test coverage for  [dustjs-linkedin (v2.7.5)](http://dustjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-dustjs-linkedin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dustjs-linkedin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dustjs-linkedin.svg)](https://travis-ci.org/npmtest/node-npmtest-dustjs-linkedin)
 
 #### Asynchronous templates for the browser and server (LinkedIn fork)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dustjs-linkedin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dustjs-linkedin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-dustjs-linkedin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-dustjs-linkedin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-dustjs-linkedin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-dustjs-linkedin/build/coverage.html/index.html)
 
